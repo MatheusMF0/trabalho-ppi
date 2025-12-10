@@ -1,0 +1,33 @@
+{
+  "name": "trabalho-ppi",
+  "version": "1.0.0",
+  "description": "Trabalho final PPI",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MatheusMF0/trabalho-ppi.git"
+  },
+  "keywords": [
+    "javascript",
+    "nodejs",
+    "cookies",
+    "http"
+  ],
+  "author": "Matheus Milhorança Ferrer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MatheusMF0/trabalho-ppi/issues"
+  },
+  "homepage": "https://github.com/MatheusMF0/trabalho-ppi#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^5.2.1",
+    "express-session": "^1.18.2",
+    "session": "^0.1.0"
+  }
+}
